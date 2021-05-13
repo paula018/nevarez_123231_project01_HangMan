@@ -13,5 +13,5 @@ The libraries used during this project where `graphics.py` and `random.py`
   - Once the game is finished we undraw the instructions, ads and guess button. Then, display the word that was randomly chosen and a win or loss message.
   - At last, we ask the player if he wants to play again or quit, if the player choses to play again the page will close and another game will start and if he chooses to quit the  window will close
 
-##References:
+## References:
 https://github.com/Tom25/Hangman
